@@ -22,6 +22,10 @@ To run the Small-Medium Enterprise Purchase and Order System, follow these steps
 
 - 🐘 PHP: The primary scripting language used to develop the Purchase and Order System.
 - 🏢 MySQL: The database management system used to store product information, purchase history, and other data.
+- 🌐 HTML: The markup language for creating the structure and content of web pages.
+- 🎨 CSS: The style sheet language used to define the visual appearance of the application.
+- 🅱️ Bootstrap: The front-end framework used to design responsive and mobile-friendly web pages.
+- 🎉 JavaScript: The scripting language for front-end interactivity and dynamic features.
 
 ## 🤝 Contributing
 
