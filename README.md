@@ -2,6 +2,8 @@
 
 The Small-Medium Enterprise Purchase and Order System is a web application built using PHP scripting language that facilitates the management of product information, purchase history, and other essential functions for a small to medium-sized enterprise.
 
+![Preview Image](preview.png)
+
 ## ⭐️ Key Features
 
 - 📦 Product Management: Store and organize detailed information about products, including product names, descriptions, pricing, and available stock.
